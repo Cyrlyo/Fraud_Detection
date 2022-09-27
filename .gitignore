@@ -3,3 +3,5 @@
 *.csv
 lien.txt
 Data
+*.ipynb_checkpoints
+.ipynb_checkpoints
